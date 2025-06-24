@@ -1,5 +1,3 @@
-# Multithreading
-
 # 🧵 Multithreading and Concurrency in C++
 
 This repository is a curated collection of **C++ programs and examples** that demonstrate various **multithreading and concurrency** concepts, including:
